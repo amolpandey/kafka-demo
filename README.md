@@ -38,6 +38,8 @@ Once the cluster is up and running, from the UI one can create the relevant topi
 
 [Stackoverflow - Kafka Broker doesn't find cluster id and creates new one after docker restart](https://stackoverflow.com/questions/59592518/kafka-broker-doesnt-find-cluster-id-and-creates-new-one-after-docker-restart)
 
+**Reference Article** - [Medium - Setup Local Kafka Cluster with Kafka-UI Enabled Using Docker Desktop](https://medium.com/@caoyang1024/setup-local-kafka-cluster-with-kafka-ui-enabled-using-docker-desktop-9293f733cf28)
+
 ### Python Producer and Consumer Scripts
 
 Now once the above steps are completed for the Kafka containers and cluster is Up and Running.
@@ -57,3 +59,4 @@ And the above setup can be run in multiple terminals of the VS Code as follows:
 **Producer**
 ![Terminal Producer](img/Code_81zh4WzIa5.png)
 
+**Reference Article** - [Apache Flink E-Commerce Analytics with Elasticsearch and Postgres](https://github.com/airscholar/FlinkCommerce/tree/main)
